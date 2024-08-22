@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **DISCLAIMER**: This website is still very much a work in progress, and mixes some of my own additions with template content. 
+subtitle: <strong>!! Disclaimer</strong> -- This website is very much still a work in progress, mixing some of my own contents with template filler. <strong> Please disregard anything on this website for now.</strong>
 
 profile:
   align: right
