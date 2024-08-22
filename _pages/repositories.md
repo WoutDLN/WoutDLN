@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-## GitHub Profile
+You can find me on GitHub as [@WoutDLN](https://github.com/WoutDLN). Below, you can find a list of the GitHub Organizations I have initiated and contributed to, and a selection of my own GitHub repositories.
 
-You can find me on GitHub as [@WoutDLN](https://github.com/WoutDLN). I am also part of (and contributed to) the following GitHub Organizations:
+## GitHub Organizations
 
 - [SSLIS](https://github.com/SSLIS): aggregating repositories developed at the [Swedish School of Library and Information Science](https://www.hb.se/en/the-swedish-school-of-library-and-information-science-sslis/about-the-swedish-school-of-library-and-information-science/)
 - [ESTS-Variants](https://github.com/ESTS-Variants): aggregating repositories developed for [Variants](https://journals.openedition.org/variants/1190), the Journal of the [European Society for Textual Scholarship](https://textualscholarship.eu/)
