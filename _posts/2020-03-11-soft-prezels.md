@@ -8,7 +8,14 @@ categories: bites
 thumbnail: assets/img/2020-03-11-soft-pretzels.jpg
 ---
 
-![](Soft%20Pretzels!/IMG_2333-1.jpeg) 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2020-03-11-soft-prezels.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    A regular prezel (left) and the International Women's Day special (right).
+</div>
 
 Happy belated International Women’s Day everyone!
 
