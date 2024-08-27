@@ -1,1 +1,1 @@
-I should write a README
+Work in progress towards a new, GitHub Pages hosted version of my personal/professional homepage: [woutdillen.be](https://www.woutdillen.be).
