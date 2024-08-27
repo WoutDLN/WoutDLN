@@ -5,12 +5,12 @@ date: 2020-03-11 19:33:00
 description: A recipe for making soft pretzels.
 tags: food
 categories: bites
-thumbnail: assets/img/2020-03-11-soft-pretzels.jpg
+thumbnail: assets/img/blog/2020-03-11-soft-pretzels.jpg
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2020-03-11-soft-pretzels.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/2020-03-11-soft-pretzels.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
